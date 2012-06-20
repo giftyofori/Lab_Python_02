@@ -1,0 +1,24 @@
+ques1
+x is 2
+z is
+x is 1
+z is 7
+
+
+ques2
+prints 1
+prints 1
+
+ques3
+
+2
+4
+6
+8
+10
+
+ques4
+nothin prints out because i is initialised as zero and zero cant be greater than ten. so it records  a false
+
+
+
